@@ -36,7 +36,7 @@ The concepts were reinforced through practical image-classification exercises us
 
 ## Google Colab Notebooks
 
-* [Supervised Learning](Chttps://colab.research.google.com/drive/1_ikRe-kKhuIjFae9pAtElSxQ719MsLcv?usp=sharing)
+* [Supervised Learning](https://colab.research.google.com/drive/1_ikRe-kKhuIjFae9pAtElSxQ719MsLcv?usp=sharing)
 * [Neural Networks](https://colab.research.google.com/drive/13jNz89zbnxlMe-pefnmITRJk_KUt0yV-?usp=sharing)
 * [CNN Introduction](https://colab.research.google.com/drive/1BrdxB1aLeuy-lnu4EYrlzWT7AbstMy2_?usp=sharing)
 * [ResNet](https://colab.research.google.com/drive/1kzA0nqFoX_FaR9Ubv-MXMlkvSNhmJmua?usp=sharing)
