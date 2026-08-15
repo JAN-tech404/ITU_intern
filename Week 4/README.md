@@ -36,8 +36,8 @@ The practical implementation of a complete U-Net model was not completed during 
 
 * [Semantic Segmentation & U-Net Architecture](https://colab.research.google.com/drive/1dOi1VMgdK6prBRbFZ_99gKRWSnAvJvMJ?usp=sharing)
 * [Segmentation Losses & Metrics](https://colab.research.google.com/drive/1GRjGosP0gccTIe0m_HtRVLAhOa5p4v1_?usp=sharing)
+
 The following diagram illustrates the U-Net architecture, including the encoder, bottleneck, decoder, and skip connections, along with the purpose of each major block.
-![U-Net Architecture](diagrams/unet_architecture.png)
 
 <p align="center">
   <img src="diagrams/unet_architecture.png" alt="U-Net Architecture" width="100%">
