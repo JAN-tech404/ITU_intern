@@ -4,7 +4,6 @@ This repository contains the work completed during my internship, including the 
 
 ## Weekly Work
 
-|========================================================================|
 |            Week              |                 Focus                   |
 |------------------------------|-----------------------------------------|
 | [Week 1](Week%201/README.md) | Python Fundamentals                     |
