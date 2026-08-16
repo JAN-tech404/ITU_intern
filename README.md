@@ -6,7 +6,7 @@ This repository contains the work completed during my internship, including the 
 
 | Week                       | Focus                              |
 | -------------------------- | ---------------------------------- |
-| [Week 1](Week_1/README.md) | Python Fundamentals                |
+| [Week 1](Week_1/)          | Python Fundamentals                |
 | [Week 2](Week_2/README.md) | NumPy, Pandas, Matplotlib & OpenCV |
 | [Week 3](Week_3/README.md) | Machine Learning & Deep Learning   |
 | [Week 4](Week_4/README.md) | Semantic Segmentation & U-Net      |
